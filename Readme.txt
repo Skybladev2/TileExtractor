@@ -1,0 +1,1 @@
+Fast and dirty tile extractor from tile atlas. Made specially for extracting tunnel images from Saboteur compiled tunnel image. Contains valuable data for future precise clipping.
